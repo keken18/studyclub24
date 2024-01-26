@@ -1,0 +1,1 @@
+<h1>ini halamn componen yang dipanggil dengan include</h1>
